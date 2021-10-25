@@ -1,0 +1,6 @@
+---
+- hosts: prod
+  roles:
+    - sadofrazer.odoo_role
+    
+    
